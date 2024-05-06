@@ -1,0 +1,13 @@
+* {
+    font-family: Arial, sans-serif;
+}
+
+.recipe-img {
+    height: auto;
+    width: 300px;
+}
+
+.ingredients-subheader {
+    font-style: italic;
+    font-weight: 1000;
+}
