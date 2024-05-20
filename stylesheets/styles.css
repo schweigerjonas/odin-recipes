@@ -2,9 +2,26 @@
     font-family: Arial, sans-serif;
 }
 
+body {
+    margin: 0;
+}
+
+.recipe-card {
+    background-color: #e0e0e0;
+    padding: 20px;
+    margin: 15px;
+}
+
+h1 {
+    margin-top: 0;
+}
+
 .recipe-img {
+    display: block;
     height: auto;
     width: 300px;
+    margin: 0 auto;
+    border: 2px solid grey;
 }
 
 .ingredients-subheader {
